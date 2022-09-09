@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 import java.io.IOException;
 import java.lang.reflect.Method;
 
-public class GettingProductsInformationTests extends BaseClass {
+public class GettingProductsInformationTest extends BaseClass {
 
     SoftAssert softAssert = new SoftAssert();
 
