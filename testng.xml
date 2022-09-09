@@ -3,6 +3,8 @@
 <suite name="Clip Board Health Automation Suite">
     <parameter name="OS" value="Windows"/>
     <parameter name="browser" value="Chrome"/>
+    <parameter name="runType" value="docker"></parameter>
+
     <test name="ClipBoardHealthTestCases">
         <classes>
             <class name="org.health.testcases.GettingProductsInformationTests"/>
