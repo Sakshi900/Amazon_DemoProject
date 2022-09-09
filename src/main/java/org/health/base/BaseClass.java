@@ -17,16 +17,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.*;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URL;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -62,11 +61,21 @@ public class BaseClass {
     }
 
     // Browser launching taking place here
+    @Parameters("runType")
     @BeforeClass
-    public static void initialization() throws IOException {
+    public static void initialization(String runtype) throws IOException {
         String browserName = property.getProperty("Browser");
         Log.info("INFO: Tests are running on: " + browserName + " browser ");
-        if (browserName.equalsIgnoreCase("chrome")) {
+
+        if (browserName.equals("chrome") && runtype.equals("docker")) {
+            URL url = new URL("http://localhost:4444/wd/hub");
+            ChromeOptions options = new ChromeOptions();
+            options.setCapability("name","chrome");
+            options.addArguments("start-maximized");
+            driver = new RemoteWebDriver(url, options);
+            // driver.get(baseUrl);
+        }
+        else if (browserName.equalsIgnoreCase("chrome")) {
             // Runtime.getRuntime().exec("taskkill /F /IM chromedriver.exe");
             ChromeOptions options = new ChromeOptions();
             options.setPageLoadStrategy(PageLoadStrategy.NONE);
