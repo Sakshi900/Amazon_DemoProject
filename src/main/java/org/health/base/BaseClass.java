@@ -61,9 +61,10 @@ public class BaseClass {
     }
 
     // Browser launching taking place here
-    @Parameters("runType")
+
     @BeforeClass
-    public static void initialization(String runtype) throws IOException {
+    public static void initialization() throws IOException {
+        String runtype = "docker";
         String browserName = property.getProperty("Browser");
         Log.info("INFO: Tests are running on: " + browserName + " browser ");
 
