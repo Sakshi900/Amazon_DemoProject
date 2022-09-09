@@ -64,7 +64,7 @@ public class BaseClass {
 
     @BeforeClass
     public static void initialization() throws IOException {
-        String runtype = "docker";
+        String runtype = property.getProperty("RunType");
         String browserName = property.getProperty("Browser");
         Log.info("INFO: Tests are running on: " + browserName + " browser ");
 
@@ -76,7 +76,7 @@ public class BaseClass {
             driver = new RemoteWebDriver(url, options);
             // driver.get(baseUrl);
         }
-        else if (browserName.equalsIgnoreCase("chrome")) {
+        else if (browserName.equalsIgnoreCase("chrome") && runtype.equals("local")) {
             // Runtime.getRuntime().exec("taskkill /F /IM chromedriver.exe");
             ChromeOptions options = new ChromeOptions();
             options.setPageLoadStrategy(PageLoadStrategy.NONE);
