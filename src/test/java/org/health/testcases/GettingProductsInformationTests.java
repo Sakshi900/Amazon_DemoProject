@@ -19,6 +19,7 @@ public class GettingProductsInformationTests extends BaseClass {
         Log.info("-------------TEST CASE STARTED---------------------------");
         extentTest = extent.createTest(this.getClass().getSimpleName() + "."+method.getName());
         AllPages allPages= new AllPages();
+        System.out.println("#####################Test Started #####################################");
         allPages.mainPage.validateMainPageTitle();
         allPages.mainPage.isHamBrgrMenuButtonVisible();
         allPages.mainPage.clickOnHamBrgrMenuButton();
@@ -33,7 +34,9 @@ public class GettingProductsInformationTests extends BaseClass {
         allPages.productPage.selectProductAfterSorting(2);
         allPages.viewProductsPage.ifUserIsViewingProductInAnotherWindow(brand);
         allPages.viewProductsPage.getProductDetails();
+        System.out.println("*********************Test Finished*******************************************");
         softAssert.assertAll();
+
     }
 
     /**
