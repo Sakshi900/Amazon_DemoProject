@@ -1,0 +1,505 @@
+2022-09-11 12:23:03,989  INFO [main] GettingProductsInformationTest:69 - INFO: Tests are running on: chrome browser 
+2022-09-11 12:23:09,338  INFO [main] WebEventListener:117 - -------------Launching URL---------------------------
+2022-09-11 12:23:09,338  INFO [main] WebEventListener:14 - Before navigating to: 'https://www.amazon.in/'
+2022-09-11 12:23:12,394  INFO [main] WebEventListener:18 - Navigated to:'https://www.amazon.in/'
+2022-09-11 12:23:13,577  INFO [main] WebEventListener:19 - -------------TEST CASE STARTED---------------------------
+2022-09-11 12:23:13,724  INFO [main] ViewProductsPage:237 - Validate Main Page Title Title is matched
+2022-09-11 12:23:14,468  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,503  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,586  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,611  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,629  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,644  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,683  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,707  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:14,740  INFO [main] ViewProductsPage:237 - Hamburger Menu Btn Visibility on main Page HamBurger Menu Btn is displayed 
+2022-09-11 12:23:15,303  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,324  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,343  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,358  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,370  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,387  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,406  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,418  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,436  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,448  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,463  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,480  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,491  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,515  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,524  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,543  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Open Menu']
+2022-09-11 12:23:15,544  INFO [main] ViewProductsPage:30 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //a[@aria-label='Open Menu']]
+2022-09-11 12:23:15,957  INFO [main] ViewProductsPage:34 - Clicked On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //a[@aria-label='Open Menu']]
+2022-09-11 12:23:15,958  INFO [main] ViewProductsPage:237 -   Click on hamburger Menu Item Btn 
+2022-09-11 12:23:16,720  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,751  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,775  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,791  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,803  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,820  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,840  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,879  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:16,948  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.cssSelector: [class='hmenu hmenu-visible']>li
+2022-09-11 12:23:17,004  INFO [main] ViewProductsPage:62 - Found Element By : By.cssSelector: [class='hmenu hmenu-visible']>li
+2022-09-11 12:23:17,144  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:17,213  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='hmenu-customer-profile-right']//b[contains(normalize-space(),'Hello')]
+2022-09-11 12:23:17,231  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.cssSelector: [class='hmenu hmenu-visible']>li
+2022-09-11 12:23:17,249  INFO [main] ViewProductsPage:62 - Found Element By : By.cssSelector: [class='hmenu hmenu-visible']>li
+2022-09-11 12:23:17,250  INFO [main] ViewProductsPage:237 - Is Hamburger opened validationtrue==>  Hamburger menu is opened andHamBurger Menu items are Displayed30
+2022-09-11 12:23:17,659  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,687  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,688  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,712  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,730  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,760  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,772  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,790  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,792  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,824  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,846  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,874  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,887  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,921  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,922  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,956  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,976  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:17,992  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@class='hmenu-item hmenu-title ']
+2022-09-11 12:23:18,051  INFO [main] ViewProductsPage:139 - Scrolling to...Shop By Department
+2022-09-11 12:23:18,070  INFO [main] ViewProductsPage:237 -  Department Title validationDepartment Title is found
+2022-09-11 12:23:18,577  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:18,637  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:18,640  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:18,699  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:18,714  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:18,771  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:18,797  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:18,870  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:18,873  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:18,938  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:18,979  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,065  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,087  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,145  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,148  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,236  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,272  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,358  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,385  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,466  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,468  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,560  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,597  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,658  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,679  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,735  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,738  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,802  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,820  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,876  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,908  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:19,956  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:19,958  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,014  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,046  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,118  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,145  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,198  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,200  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,262  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,299  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,348  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,442  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,498  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,500  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,569  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,598  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,657  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,690  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,756  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,758  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,813  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:20,862  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:20,923  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,100  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,169  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,172  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,256  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,288  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,352  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,377  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,419  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,421  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,460  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,479  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,511  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,520  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,556  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,558  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,605  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,624  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,669  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,683  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,718  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,720  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,767  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,791  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,834  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,849  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,890  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,892  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:21,936  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:21,954  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:22,013  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:22,086  INFO [main] ViewProductsPage:139 - Scrolling to...TV, Appliances, Electronics
+2022-09-11 12:23:22,107  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:22,147  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:22,196  INFO [main] ViewProductsPage:30 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> class name: hmenu-item]
+2022-09-11 12:23:22,330  INFO [main] ViewProductsPage:34 - Clicked On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> class name: hmenu-item]
+2022-09-11 12:23:22,331  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.className: hmenu-item
+2022-09-11 12:23:22,398  INFO [main] ViewProductsPage:62 - Found Element By : By.className: hmenu-item
+2022-09-11 12:23:22,419  INFO [main] ViewProductsPage:237 - Click on department menu Item ==> Department menu item found and clicked is==> TV, Appliances, Electronics
+2022-09-11 12:23:22,843  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,864  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,894  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,910  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,926  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,940  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,956  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,970  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='hmenu hmenu-visible hmenu-translateX']//div[normalize-space()='main menu']
+2022-09-11 12:23:22,993  INFO [main] ViewProductsPage:237 -  Dept. Menu Item click ValidationMenu Item is Clicked
+2022-09-11 12:23:23,400  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,426  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,426  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,447  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,465  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,477  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,488  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,512  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,512  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,526  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,543  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,558  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,626  INFO [main] ViewProductsPage:139 - Scrolling to...Televisions
+2022-09-11 12:23:23,650  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,698  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:23,716  INFO [main] ViewProductsPage:237 - Click on department menu Item ==> Item found ==> Televisions
+2022-09-11 12:23:24,108  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:24,126  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a
+2022-09-11 12:23:24,182  INFO [main] ViewProductsPage:30 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a]
+2022-09-11 12:23:26,894  INFO [main] ViewProductsPage:34 - Clicked On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //a[@aria-label='Back to main menu']/ancestor::ul[@class='hmenu hmenu-visible hmenu-translateX']/li/a]
+2022-09-11 12:23:26,895  INFO [main] ViewProductsPage:237 - Click on department menu Item ==> Item found and clicked is==> Televisions
+2022-09-11 12:23:28,477  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,598  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,599  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,644  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,693  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,766  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[contains(@class,'browse-refinements-indent')]
+2022-09-11 12:23:28,855  INFO [main] ViewProductsPage:139 - Scrolling to...Televisions
+2022-09-11 12:23:28,919  INFO [main] ViewProductsPage:237 -  If Product Page Displays Validation  Product page is displayed and Category item is highlighted 
+2022-09-11 12:23:29,909  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:29,967  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,009  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,082  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,103  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,264  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,336  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,364  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,388  INFO [main] ViewProductsPage:139 - Scrolling to...Brands
+2022-09-11 12:23:30,388  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,405  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']
+2022-09-11 12:23:30,416  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:30,727  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:30,727  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:30,814  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:30,898  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,028  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,028  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,095  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,118  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,148  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,148  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,186  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,211  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,253  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,254  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,271  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,296  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,320  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,321  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,356  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,377  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,398  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span
+2022-09-11 12:23:31,463  INFO [main] ViewProductsPage:30 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span]
+2022-09-11 12:23:33,941  INFO [main] ViewProductsPage:34 - Clicked On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //span[normalize-space()='Brands']/parent::div/following-sibling::ul//a/span]
+2022-09-11 12:23:33,942  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='brandsRefinements']//li[@class='a-spacing-micro s-list-item']/following-sibling::li[1]//a/span
+2022-09-11 12:23:34,226  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='brandsRefinements']//li[@class='a-spacing-micro s-list-item']/following-sibling::li[1]//a/span
+2022-09-11 12:23:34,820  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //div[@id='brandsRefinements']//li[@class='a-spacing-micro s-list-item']/following-sibling::li[1]//a/span
+2022-09-11 12:23:34,868  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //div[@id='brandsRefinements']//li[@class='a-spacing-micro s-list-item']/following-sibling::li[1]//a/span
+2022-09-11 12:23:34,881  INFO [main] ViewProductsPage:237 -  Filter On Brands and Selecting a Product Brand ==> Samsung is selected
+2022-09-11 12:23:35,485  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,514  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,542  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,554  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,576  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,603  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,615  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,636  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,659  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,683  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:35,683  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: .//option[normalize-space(.) = "Price: High to Low"]
+2022-09-11 12:23:35,705  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: .//option[normalize-space(.) = "Price: High to Low"]
+2022-09-11 12:23:35,720  INFO [main] ViewProductsPage:30 - Trying to Click On: [[[[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //select[@id='s-result-sort-select']]] -> xpath: .//option[normalize-space(.) = "Price: High to Low"]]
+2022-09-11 12:23:37,647  INFO [main] ViewProductsPage:34 - Clicked On: [[[[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //select[@id='s-result-sort-select']]] -> xpath: .//option[normalize-space(.) = "Price: High to Low"]]
+2022-09-11 12:23:37,647  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:37,708  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //select[@id='s-result-sort-select']
+2022-09-11 12:23:37,746  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,621  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,654  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,696  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,713  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,734  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,785  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,803  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,836  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,856  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,882  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,902  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[normalize-space()='Sort by:']/following-sibling::span
+2022-09-11 12:23:38,911  INFO [main] ViewProductsPage:237 - Sorting of products ==>  Product is sorted by :Price: High to Low
+2022-09-11 12:23:39,331  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,361  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,362  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,372  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,372  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,387  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,403  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,420  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,420  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,436  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,454  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,468  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,469  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,481  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,495  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,517  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,518  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,545  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,565  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,595  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,595  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,611  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,629  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,655  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,656  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,674  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,687  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,703  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,703  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,719  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,735  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,751  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,752  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,768  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,791  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,814  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,814  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,830  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,851  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,864  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,865  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,879  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,896  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,907  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,908  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,923  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,938  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,958  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,959  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,975  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:39,999  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,021  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,021  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,037  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,055  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,070  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,070  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,082  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,105  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,130  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,130  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,145  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,158  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,180  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,180  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,197  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,229  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,245  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,245  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,263  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,287  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,308  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,309  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,342  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,362  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,384  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,385  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,405  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,430  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,453  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,454  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,481  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,503  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,527  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,527  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,542  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,563  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,589  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,589  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,607  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,626  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,655  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span
+2022-09-11 12:23:40,690  INFO [main] ViewProductsPage:30 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span]
+2022-09-11 12:23:40,984  INFO [main] ViewProductsPage:34 - Clicked On: [[ChromeDriver: chrome on WINDOWS (091e49bd3b532a9520313da68be530b1)] -> xpath: //span[@class='a-price']//span[@class='a-price-symbol']/following-sibling::span]
+2022-09-11 12:23:40,985  INFO [main] ViewProductsPage:237 - Selecting Product based upon price ==> Item Clicked On is ==> 6,69,990
+2022-09-11 12:23:47,444  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,592  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,665  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,794  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,841  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,896  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,928  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:47,984  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:48,000  INFO [main] ViewProductsPage:139 - Scrolling to...About this item
+2022-09-11 12:23:48,000  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:48,026  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //h1[normalize-space()='About this item']
+2022-09-11 12:23:48,045  INFO [main] ViewProductsPage:237 -  If Product Details Page Displays after clicking on item ==> User is on Product details page
+2022-09-11 12:23:48,539  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,576  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,576  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,595  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,672  INFO [main] ViewProductsPage:139 - Scrolling to...Resolution : 4K Ultra HD (3840 x 2160) Resolution || Refresh Rate : 100 Hertz
+2022-09-11 12:23:48,681  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,714  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,740  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,809  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,809  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:48,835  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,000  INFO [main] ViewProductsPage:139 - Scrolling to...Connectivity: 4 HDMI ports to connect set top box || Blu-ray speakers or a gaming console || 2 USB ports to connect hard drives or other USB devices
+2022-09-11 12:23:49,026  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,072  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,079  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,091  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,091  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,107  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,179  INFO [main] ViewProductsPage:139 - Scrolling to...Sound: 60 Watts Output - 4.2.2 Ch|| Powerful Speakers with Dolby Atmos || Surround Sound || Active Voice Amplifier || Adaptive Sound+
+2022-09-11 12:23:49,197  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,249  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,290  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,316  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,318  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,339  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,439  INFO [main] ViewProductsPage:139 - Scrolling to...Smart TV Features : Mirroring || Tap View ||Multi-View || Music Wall || Mobile Camera Support || Wireless Dex || Auto Game Mode (ALLM) || Game Motion Plus || Dynamic Black EQ || Surround Sound || Super Ultra Wide Game View ||Mini Map Zoom || FreeSync Premium Pro || HGiG
+2022-09-11 12:23:49,446  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,482  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,493  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,525  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,525  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,549  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,621  INFO [main] ViewProductsPage:139 - Scrolling to...Display: Matte Display || One Billion Color || PQI 4600 || 100% Colour Volume with Quantum Dot || Wide Viewing Angle || AI Upscale || Neo Quantum Processor 4K || Quantum Matrix Technology || Motion Xcelerator Turbo Pro || Real Depth Enhancer || LED Clear Motion
+2022-09-11 12:23:49,634  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,661  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,669  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,685  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,686  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,711  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,813  INFO [main] ViewProductsPage:139 - Scrolling to...Warranty Information: 1 year comprehensive warranty plus additional 1 years on panel by brand from date of invoice
+2022-09-11 12:23:49,823  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,866  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,886  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,917  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,918  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:49,940  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,039  INFO [main] ViewProductsPage:139 - Scrolling to...Installation: TV Table stand is not included in the box with this model. customer may ask for Table Top Stand or Wall Mount which will be provided to the customer at the time of installation, please directly call Samsung support on [Please visit brand website for tollfree numbers] and provide product's model name as well as seller's details mentioned on the invoice
+2022-09-11 12:23:50,076  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,162  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,183  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,208  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,208  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,221  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,302  INFO [main] ViewProductsPage:139 - Scrolling to...Easy Returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description
+2022-09-11 12:23:50,311  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,342  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,350  INFO [main] ViewProductsPage:58 - Trying to Find Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,382  INFO [main] ViewProductsPage:62 - Found Element By : By.xpath: //ul[@class='a-unordered-list a-vertical a-spacing-mini']//span
+2022-09-11 12:23:50,383  INFO [main] ViewProductsPage:51 - [Resolution : 4K Ultra HD (3840 x 2160) Resolution || Refresh Rate : 100 Hertz, 
+, Connectivity: 4 HDMI ports to connect set top box || Blu-ray speakers or a gaming console || 2 USB ports to connect hard drives or other USB devices, 
+, Sound: 60 Watts Output - 4.2.2 Ch|| Powerful Speakers with Dolby Atmos || Surround Sound || Active Voice Amplifier || Adaptive Sound+, 
+, Smart TV Features : Mirroring || Tap View ||Multi-View || Music Wall || Mobile Camera Support || Wireless Dex || Auto Game Mode (ALLM) || Game Motion Plus || Dynamic Black EQ || Surround Sound || Super Ultra Wide Game View ||Mini Map Zoom || FreeSync Premium Pro || HGiG, 
+, Display: Matte Display || One Billion Color || PQI 4600 || 100% Colour Volume with Quantum Dot || Wide Viewing Angle || AI Upscale || Neo Quantum Processor 4K || Quantum Matrix Technology || Motion Xcelerator Turbo Pro || Real Depth Enhancer || LED Clear Motion, 
+, Warranty Information: 1 year comprehensive warranty plus additional 1 years on panel by brand from date of invoice, 
+, Installation: TV Table stand is not included in the box with this model. customer may ask for Table Top Stand or Wall Mount which will be provided to the customer at the time of installation, please directly call Samsung support on [Please visit brand website for tollfree numbers] and provide product's model name as well as seller's details mentioned on the invoice, 
+, Easy Returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description, 
+]
+2022-09-11 12:23:50,383  INFO [main] ViewProductsPage:237 -  Getting Product details ==>>>>>>>  [Resolution : 4K Ultra HD (3840 x 2160) Resolution || Refresh Rate : 100 Hertz, 
+, Connectivity: 4 HDMI ports to connect set top box || Blu-ray speakers or a gaming console || 2 USB ports to connect hard drives or other USB devices, 
+, Sound: 60 Watts Output - 4.2.2 Ch|| Powerful Speakers with Dolby Atmos || Surround Sound || Active Voice Amplifier || Adaptive Sound+, 
+, Smart TV Features : Mirroring || Tap View ||Multi-View || Music Wall || Mobile Camera Support || Wireless Dex || Auto Game Mode (ALLM) || Game Motion Plus || Dynamic Black EQ || Surround Sound || Super Ultra Wide Game View ||Mini Map Zoom || FreeSync Premium Pro || HGiG, 
+, Display: Matte Display || One Billion Color || PQI 4600 || 100% Colour Volume with Quantum Dot || Wide Viewing Angle || AI Upscale || Neo Quantum Processor 4K || Quantum Matrix Technology || Motion Xcelerator Turbo Pro || Real Depth Enhancer || LED Clear Motion, 
+, Warranty Information: 1 year comprehensive warranty plus additional 1 years on panel by brand from date of invoice, 
+, Installation: TV Table stand is not included in the box with this model. customer may ask for Table Top Stand or Wall Mount which will be provided to the customer at the time of installation, please directly call Samsung support on [Please visit brand website for tollfree numbers] and provide product's model name as well as seller's details mentioned on the invoice, 
+, Easy Returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description, 
+] 
+2022-09-11 12:23:50,625  INFO [main] ViewProductsPage:155 - --------------TEST CASE FINISHED--------------------------
+2022-09-11 12:23:52,325  INFO [main] ViewProductsPage:178 - -----------------------------------------------
+2022-09-11 12:23:52,326  INFO [main] ViewProductsPage:179 - -------- Browser Terminated --------------------
+2022-09-11 12:23:52,326  INFO [main] ViewProductsPage:180 - -----------------------------------------------
+2022-09-11 12:23:52,372 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en_CA.ftl"): Not found
+2022-09-11 12:23:52,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2022-09-11 12:23:52,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2022-09-11 12:23:52,379 DEBUG [main] cache:45 - Loading template for "index.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2022-09-11 12:23:52,697 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_CA.ftl"): Not found
+2022-09-11 12:23:52,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2022-09-11 12:23:52,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2022-09-11 12:23:52,699 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2022-09-11 12:23:52,702 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_CA.ftl"): Not found
+2022-09-11 12:23:52,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2022-09-11 12:23:52,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2022-09-11 12:23:52,705 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2022-09-11 12:23:52,714 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_CA.ftl"): Not found
+2022-09-11 12:23:52,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2022-09-11 12:23:52,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2022-09-11 12:23:52,716 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2022-09-11 12:23:52,745 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,745 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_CA.ftl"): Not found
+2022-09-11 12:23:52,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2022-09-11 12:23:52,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2022-09-11 12:23:52,747 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2022-09-11 12:23:52,759 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,761 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_CA.ftl"): Not found
+2022-09-11 12:23:52,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2022-09-11 12:23:52,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2022-09-11 12:23:52,763 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2022-09-11 12:23:52,783 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_CA.ftl"): Not found
+2022-09-11 12:23:52,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2022-09-11 12:23:52,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2022-09-11 12:23:52,785 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2022-09-11 12:23:52,788 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_CA.ftl"): Not found
+2022-09-11 12:23:52,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2022-09-11 12:23:52,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2022-09-11 12:23:52,791 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2022-09-11 12:23:52,795 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_CA.ftl"): Not found
+2022-09-11 12:23:52,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2022-09-11 12:23:52,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2022-09-11 12:23:52,798 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2022-09-11 12:23:52,807 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-09-11 12:23:52,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_CA.ftl"): Not found
+2022-09-11 12:23:52,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2022-09-11 12:23:52,810 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2022-09-11 12:23:52,811 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.lnu/.m2/repository/com/aventstack/extentreports/3.0.1/extentreports-3.0.1.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
