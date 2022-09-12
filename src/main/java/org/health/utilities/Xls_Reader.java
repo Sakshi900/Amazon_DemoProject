@@ -9,7 +9,6 @@ import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.IndexedColors;
 import org.apache.poi.xssf.usermodel.*;
 
-import javax.swing.text.DateFormatter;
 import java.io.*;
 import java.util.Calendar;
 
@@ -36,6 +35,37 @@ public class Xls_Reader {
             fis.close();
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public Xls_Reader(String excelFilePath, String sheetName) {
+
+        Xls_Reader.path = excelFilePath;
+        File excelFile = new File(excelFilePath);
+        if (!excelFile.exists()) {
+            try {
+                excelFile.createNewFile();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        try {
+            fis = new FileInputStream(excelFile);
+        } catch (FileNotFoundException e) {
+
+            e.printStackTrace();
+        }
+        try {
+            workbook = new XSSFWorkbook(fis);
+            XSSFFormulaEvaluator createHelper = workbook.getCreationHelper().createFormulaEvaluator();
+            formatter = new DataFormatter();
+        } catch (IOException e) {
+
+            e.printStackTrace();
+        }
+        sheet = workbook.getSheet(sheetName);
+        if (sheet == null) {
+            sheet = workbook.createSheet(sheetName);
         }
     }
 
@@ -366,35 +396,5 @@ public class Xls_Reader {
             }
         }
         return -1;
-    }
-    public Xls_Reader(String excelFilePath, String sheetName) {
-
-        Xls_Reader.path = excelFilePath;
-        File excelFile = new File(excelFilePath);
-        if (!excelFile.exists()) {
-            try {
-                excelFile.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-        try {
-            fis = new FileInputStream(excelFile);
-        } catch (FileNotFoundException e) {
-
-            e.printStackTrace();
-        }
-        try {
-            workbook = new XSSFWorkbook(fis);
-            XSSFFormulaEvaluator createHelper = workbook.getCreationHelper().createFormulaEvaluator();
-            formatter = new DataFormatter();
-        } catch (IOException e) {
-
-            e.printStackTrace();
-        }
-        sheet = workbook.getSheet(sheetName);
-        if (sheet == null) {
-            sheet = workbook.createSheet(sheetName);
-        }
     }
 }

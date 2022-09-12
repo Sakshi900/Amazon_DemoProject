@@ -7,19 +7,19 @@ import org.health.webpages.ViewProductsPage;
 
 public class AllPages {
 
-	public MainPage mainPage;
-	public HMenuContainerPage hMenuContainerPage;
-	public ProductPage productPage;
+    public MainPage mainPage;
+    public HMenuContainerPage hMenuContainerPage;
+    public ProductPage productPage;
 
-	public ViewProductsPage viewProductsPage;
+    public ViewProductsPage viewProductsPage;
 
-	public AllPages() {
+    public AllPages() {
 
-		mainPage = new MainPage();
-		hMenuContainerPage = new HMenuContainerPage();
-		productPage = new ProductPage();
-		viewProductsPage = new ViewProductsPage();
+        mainPage = new MainPage();
+        hMenuContainerPage = new HMenuContainerPage();
+        productPage = new ProductPage();
+        viewProductsPage = new ViewProductsPage();
 
-	}
+    }
 
 }
