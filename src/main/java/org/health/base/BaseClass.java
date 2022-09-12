@@ -33,7 +33,7 @@ import java.net.URL;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-
+//Base class for all the classes
 public class BaseClass {
 
     public static WebDriver driver;
