@@ -74,6 +74,10 @@ public class BaseClass {
             ChromeOptions options = new ChromeOptions();
             options.setCapability("name","chrome");
             options.addArguments("start-maximized");
+            options.addArguments("--no-sandbox");
+            options.addArguments("--disable-dev-shm-usage");
+            options.addArguments("--headless");
+
             driver = new RemoteWebDriver(url, options);
             // driver.get(baseUrl);
         }

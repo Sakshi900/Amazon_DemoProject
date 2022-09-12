@@ -5,6 +5,7 @@ import org.health.utilities.TestUtility;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -23,9 +24,11 @@ public class ViewProductsPage extends BaseClass {
     }
 
 
-    public void ifUserIsViewingProductInAnotherWindow(String brand) throws IOException {
+    public void ifUserIsViewingProductInAnotherWindow(String brand) throws IOException, InterruptedException {
         methodName = " If Product Details Page Displays after clicking on item ==> ";
+        Thread.sleep(5000);
         TestUtility.switchWindow(2);
+        TestUtility.waitToBeVisble(driver, aboutItem, TestUtility.EXPLICIT_WAIT);
         if (driver.getCurrentUrl().contains(brand)
                 || driver.getCurrentUrl().equalsIgnoreCase(brand)
                 && aboutItem.isDisplayed()) {

@@ -15,7 +15,7 @@ public class GettingProductsInformationTest extends BaseClass {
     SoftAssert softAssert = new SoftAssert();
 
     @Test(dataProvider = "getProductData")
-    public void verifyAmazonProductDetails(String dept, String deptItem, String item, String brand, String sortOf, Method method) throws IOException {
+    public void verifyAmazonProductDetails(String dept, String deptItem, String item, String brand, String sortOf, Method method) throws IOException, InterruptedException {
         Log.info("-------------TEST CASE STARTED---------------------------");
         extentTest = extent.createTest(this.getClass().getSimpleName() + "."+method.getName());
         AllPages allPages= new AllPages();
