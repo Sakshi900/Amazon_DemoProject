@@ -4,7 +4,6 @@ import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
-import freemarker.log.Logger;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -16,7 +15,6 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.openxml4j.exceptions.InvalidFormatException;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
@@ -233,6 +231,7 @@ public class TestUtility extends BaseClass {
         softassert.assertTrue(false);
 
     }
+
     public static void reportStatusPass(String passLog, boolean screenshot, boolean isValidationStep) throws IOException {
         Log.info(passLog);
         if (isValidationStep) {

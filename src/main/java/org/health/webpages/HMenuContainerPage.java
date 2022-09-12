@@ -55,7 +55,7 @@ public class HMenuContainerPage extends BaseClass {
                     || deptTitleList.get(i).getText().equalsIgnoreCase(dept)) {
                 TestUtility.scrollToElement(driver, deptTitleList.get(i), TestUtility.EXPLICIT_WAIT);
                 TestUtility.reportStatusPass(methodName + "Department Title is found", true, true);
-            break;
+                break;
             }
         }
 
@@ -71,7 +71,7 @@ public class HMenuContainerPage extends BaseClass {
                 TestUtility.clickOn(driver, deptMenuItem.get(i), TestUtility.EXPLICIT_WAIT);
                 TestUtility.reportStatusPass(methodName + "Department menu item found and clicked is==> " + deptMenuItem.get(i).getText(),
                         true, true);
-           break;
+                break;
             }
         }
 
@@ -98,7 +98,7 @@ public class HMenuContainerPage extends BaseClass {
                 TestUtility.clickOn(driver, items.get(i), TestUtility.EXPLICIT_WAIT);
                 TestUtility.reportStatusPass(methodName + "Item found and clicked is==> " + item,
                         true, true);
-break;
+                break;
             }
         }
     }

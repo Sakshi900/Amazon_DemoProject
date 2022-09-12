@@ -5,7 +5,6 @@ import org.health.utilities.TestUtility;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -45,14 +44,14 @@ public class ViewProductsPage extends BaseClass {
         methodName = " Getting Product details ==>>>>>>> ";
         List<String> list = new ArrayList<String>();
 
-        for (int i =0; i<aboutItemDetails.size(); i ++) {
+        for (int i = 0; i < aboutItemDetails.size(); i++) {
             TestUtility.scrollToElement(driver, aboutItemDetails.get(i), TestUtility.EXPLICIT_WAIT);
             list.add(aboutItemDetails.get(i).getText());
             list.add("\r\n");
 
         }
         Log.info(list);
-        TestUtility.reportStatusPass(methodName + " " +list+" ",
+        TestUtility.reportStatusPass(methodName + " " + list + " ",
                 true, true);
 
 

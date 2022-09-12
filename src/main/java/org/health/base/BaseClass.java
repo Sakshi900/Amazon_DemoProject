@@ -21,7 +21,10 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeTest;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -72,7 +75,7 @@ public class BaseClass {
         if (browserName.equals("chrome") && runtype.equals("docker")) {
             URL url = new URL("http://localhost:4444/wd/hub");
             ChromeOptions options = new ChromeOptions();
-            options.setCapability("name","chrome");
+            options.setCapability("name", "chrome");
             options.addArguments("start-maximized");
             options.addArguments("--no-sandbox");
             options.addArguments("--disable-dev-shm-usage");
@@ -80,8 +83,7 @@ public class BaseClass {
 
             driver = new RemoteWebDriver(url, options);
             // driver.get(baseUrl);
-        }
-        else if (browserName.equalsIgnoreCase("chrome") && runtype.equals("local")) {
+        } else if (browserName.equalsIgnoreCase("chrome") && runtype.equals("local")) {
             // Runtime.getRuntime().exec("taskkill /F /IM chromedriver.exe");
             ChromeOptions options = new ChromeOptions();
             options.setPageLoadStrategy(PageLoadStrategy.NONE);
@@ -110,9 +112,7 @@ public class BaseClass {
                     .addPreference("browser.startup.page", 1);
             driver = new RemoteWebDriver(url, options);
             // driver.get(baseUrl);
-        }
-
-        else {
+        } else {
             Log.info("Path of Driver Executable is not Set for any Browser");
         }
 

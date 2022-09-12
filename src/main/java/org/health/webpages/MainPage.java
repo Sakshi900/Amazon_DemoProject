@@ -41,7 +41,7 @@ public class MainPage extends BaseClass {
     public void clickOnHamBrgrMenuButton() throws IOException {
         methodName = "  Click on hamburger Menu Item Btn ";
         TestUtility.clickOn(driver, hamBrgrMenuBtn, TestUtility.EXPLICIT_WAIT);
-        TestUtility.reportStatusPass(methodName , true, true);
+        TestUtility.reportStatusPass(methodName, true, true);
     }
 
 }

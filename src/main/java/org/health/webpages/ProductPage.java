@@ -92,13 +92,7 @@ public class ProductPage extends BaseClass {
             WebElement listText = itemPriceList.get(i);
             System.out.println("=================List Text Is======" + listText.getText());
             list.add(listText);
-//            if(list.get(i).itemPriceList.get(i).getText())
-//
-//            itemPriceList.get(i).click();
-            //System.out.println("");
         }
-        //String[] myArray = new String[list.size()];
-        //list.toArray(myArray);
         for (int i = 0; i < list.size(); i++) {
             System.out.println("======Element at the index=====" + i + " is ::" + list.get(i).getText());
             if (i == itemPosition - 1) {
