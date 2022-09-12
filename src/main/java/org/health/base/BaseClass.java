@@ -17,6 +17,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
@@ -99,7 +100,15 @@ public class BaseClass {
                     System.getProperty("user.dir")
                             + "/src/main/resources/geckodriver.exe");
             driver = new FirefoxDriver();
-        } else {
+        } else if (browserName.equals("firefox") && runtype.equals("docker")) {
+            URL url = new URL("http://localhost:4444/wd/hub");
+            FirefoxOptions options = new FirefoxOptions()
+                    .addPreference("browser.startup.page", 1);
+            driver = new RemoteWebDriver(url, options);
+            // driver.get(baseUrl);
+        }
+
+        else {
             Log.info("Path of Driver Executable is not Set for any Browser");
         }
 
