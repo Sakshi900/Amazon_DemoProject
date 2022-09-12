@@ -136,8 +136,7 @@ public class BaseClass {
         TestUtility.setDateForLog4j();
         // Telling System Where Exactly Extent Report has to be Generated under Project.
         htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")
-                + "/ExtentResults/ClipBoardHealthTestReport_"
-                + TestUtility.getSystemDate() + ".html");
+                + "/ExtentResults/ClipBoardHealthTestReport_"+ ".html");
 
         extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
